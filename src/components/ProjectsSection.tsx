@@ -14,7 +14,7 @@ const ProjectsSection: React.FC = () => {
       liveUrl: "#",
       githubUrl: "#",
       category: "Web Development",
-      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
+      image: "/lovable-uploads/31c7ca26-4e46-4f2e-9d20-ff6f7dae29bb.png",
       featured: true
     },
     {
@@ -24,7 +24,7 @@ const ProjectsSection: React.FC = () => {
       liveUrl: "#",
       githubUrl: "#",
       category: "Healthcare Tech",
-      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
+      image: "/lovable-uploads/5a9b9b3a-b8f7-4b12-9d4e-8c7e6f5a4b3c.png",
       featured: true
     },
     {
@@ -34,7 +34,7 @@ const ProjectsSection: React.FC = () => {
       liveUrl: "#",
       githubUrl: "#",
       category: "AI & Analytics",
-      image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&h=400&fit=crop",
+      image: "/lovable-uploads/7f8e9d0a-1b2c-3e4f-5a6b-7c8d9e0f1a2b.png",
       featured: false
     },
     {
@@ -44,7 +44,7 @@ const ProjectsSection: React.FC = () => {
       liveUrl: "#",
       githubUrl: "#",
       category: "Blockchain",
-      image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+      image: "/lovable-uploads/2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d.png",
       featured: false
     },
     {
@@ -54,7 +54,7 @@ const ProjectsSection: React.FC = () => {
       liveUrl: "#",
       githubUrl: "#",
       category: "IoT Solutions",
-      image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=600&h=400&fit=crop",
+      image: "/lovable-uploads/9e8d7c6b-5a4f-3e2d-1c0b-9a8e7d6c5b4a.png",
       featured: false
     },
     {
@@ -64,7 +64,7 @@ const ProjectsSection: React.FC = () => {
       liveUrl: "#",
       githubUrl: "#",
       category: "EdTech VR",
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
+      image: "/lovable-uploads/3c4d5e6f-7a8b-9c0d-1e2f-3a4c5d6e7f8a.png",
       featured: false
     }
   ];
