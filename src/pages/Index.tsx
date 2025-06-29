@@ -32,7 +32,7 @@ const Index = () => {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-black via-gray-900 to-black text-white overflow-x-hidden">
+    <div className="min-h-screen bg-gradient-to-b from-black via-[#131024] to-black text-white overflow-x-hidden">
       <StarfieldBackground />
       
       <Navigation isDarkMode={isDarkMode} toggleTheme={toggleTheme} />
